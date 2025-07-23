@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### Estudiante de Ingenieria Civil ☾
+#### Estudiante de Ingenieria Civil 🏗️📐👷‍♂️
 
 Comision Directiva/Tesorero [Club de Programacion FIUNA](https://cpfiuna.vercel.app);<br>
 
