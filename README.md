@@ -4,7 +4,7 @@
 <div align="center">
 <br><br>
 <pre><div align="left">
-💼 Ingeniería Civil @ <a href="https://ing.una.py">FIUNA</a>
+💼 Ingeniería Civil @ <a href="https://www.ing.una.py">FIUNA</a>
 💻 Tesorero @ <a href="https://cpfiuna.io">Club de Programación FIUNA</a>
 🎮 Videojuegos 
 🎧 NewJeans en loop
